@@ -1,0 +1,22 @@
+{
+  "name": "cli-command-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsonraza1/CLI-Command-READMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsonraza1/CLI-Command-READMe/issues"
+  },
+  "homepage": "https://github.com/ehsonraza1/CLI-Command-READMe#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
